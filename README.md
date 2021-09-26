@@ -10,3 +10,9 @@ Dingen die ik heb geleerd tijdens het maken van het project:
 6. Futher reading: https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6
 7. Dat CSS-Grid rows en columns neerzetten best wel wat responsive issues kan geven als je niet goed weet hoe groot je elementen moeten worden.
 8. Hoe je gemakkelijk events kan emitten op bestaande elementen.
+
+Api's die gebruikt zijn:
+1. Pokémon API => https://pokeapi.co/docs/v2
+2. Age Guesser API => https://agify.io/
+3. Random Activity API => https://www.boredapi.com/documentation
+4. Random Dogs API => https://dog.ceo/dog-api/documentation/random
