@@ -7,10 +7,10 @@
 :root{
     --background-color: #ECECEC;
     --border-radius: 5rem;
-    --box-shadow-dark: 20px 20px 60px #c9c9c9;
-    --box-shadow-dark--long: 20px 20px 70px #c9c9c9;
-    --box-shadow-light: -20px -20px 60px #fff; 
-    --box-shadow-light--long: -20px -20px 70px #fff; 
+    --box-shadow-dark: 10px 10px 20px #c9c9c9;
+    --box-shadow-dark--long: 10px 10px 30px #c9c9c9;
+    --box-shadow-light: -10px -10px 20px #fff; 
+    --box-shadow-light--long: -10px -10px 30px #fff; 
     --accent-color: hsl(227, 95%, 55%);
 }
 html{
