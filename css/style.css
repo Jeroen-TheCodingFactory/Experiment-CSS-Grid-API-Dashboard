@@ -1,4 +1,4 @@
-* {
+*, *::before, *::after{
     padding:0;
     margin:0;
     box-sizing: border-box;
@@ -162,7 +162,6 @@ body{
     grid-template-rows: repeat(2,minmax(40rem,1fr));
     grid-column-gap: 8rem;
     grid-row-gap: 8rem;
-    min-height: calc(100vh - 16rem);
     max-width:200rem;
     width:100%;
 }
