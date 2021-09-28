@@ -9,6 +9,8 @@
     --border-radius: 5rem;
     --box-shadow-dark: 10px 10px 20px #c9c9c9;
     --box-shadow-dark--long: 10px 10px 30px #c9c9c9;
+    --box-shadow-dark--button: 3px 3px 3px #c9c9c9;
+    --box-shadow-light--button: -3px -3px 3px #fff; 
     --box-shadow-light: -10px -10px 20px #fff; 
     --box-shadow-light--long: -10px -10px 30px #fff; 
     --accent-color: hsl(227, 95%, 55%);
@@ -65,15 +67,15 @@ body{
     height: 8rem;
     border-radius:50%;
     background:var(--background-color);
-    box-shadow:  var(--box-shadow-dark), var(--box-shadow-light);
+    box-shadow:  var(--box-shadow-dark--button), var(--box-shadow-light--button);
     position: relative;
     border:none;
-    transition:0.2 box-shadow;
+    transition:0.2s box-shadow;
 }
 
 .card__button:hover{
     cursor:pointer;
-    box-shadow:  inset var(--box-shadow-dark), inset var(--box-shadow-light);
+    box-shadow: inset var(--box-shadow-dark--button), inset var(--box-shadow-light--button);
 }
 
 .card__button::after{
