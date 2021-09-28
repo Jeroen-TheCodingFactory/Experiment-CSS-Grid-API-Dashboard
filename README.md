@@ -26,7 +26,4 @@ Andere links:
 5. De IT-proeverij waarin ik het dashboard heb gemaakt: https://www.youtube.com/watch?v=V0V79aiDoOU
 6. Gratis API's: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 7. Problemen met neumorphism / accessibility issues: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
-
-
-
-x. Live demo: https://css-grid-neumorphism.web.app/ 
+8. Live demo: https://css-grid-neumorphism.web.app/ 
