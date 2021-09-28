@@ -12,10 +12,21 @@ Dingen die ik heb geleerd tijdens het maken van het project:
 8. Hoe je gemakkelijk events kan emitten op bestaande elementen.
 9. Geleerd hoe distance ervoor kan zorgen hoe het element uit de achtergrond gedrukt lijkt te zijn. Daarnaast geleerd dat de blur ervoor zorgt hoe vervaagd het element met de achtergrond is. Distance veranderd ook blur in de calculatie.
 
-Live demo: https://css-grid-neumorphism.web.app/ 
-
 Api's die gebruikt zijn:
 1. Pokémon API => https://pokeapi.co/docs/v2
 2. Age Guesser API => https://agify.io/
 3. Random Activity API => https://www.boredapi.com/documentation
 4. Random Dogs API => https://dog.ceo/dog-api/documentation/random
+
+Andere links:
+1. Artikel #1 over neumorphism: https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6
+2. Artikel #2 over neumorphism: https://www.justinmind.com/blog/neumorphism-ui/
+3. Tool Neumorphism: https://neumorphism.io 
+4. Github: https://github.com/Jeroen-TheCodingFactory/CSS-Grid-API-Dashboard
+5. De IT-proeverij waarin ik het dashboard heb gemaakt: https://www.youtube.com/watch?v=V0V79aiDoOU
+6. Gratis API's: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+7. Problemen met neumorphism / accessibility issues: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+
+
+x. Live demo: https://css-grid-neumorphism.web.app/ 
