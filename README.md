@@ -10,7 +10,9 @@ Dingen die ik heb geleerd tijdens het maken van het project:
 6. Futher reading: https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6
 7. Dat CSS-Grid rows en columns neerzetten best wel wat responsive issues kan geven als je niet goed weet hoe groot je elementen moeten worden.
 8. Hoe je gemakkelijk events kan emitten op bestaande elementen.
-9. Geleerd hoe distance ervoor kan zorgen hoe het element uit de achtergrond gedrukt lijkt te zijn. Daarnaast geleerd dat de blur ervoor zorgt hoe vervaagd het element met de achtergrond is. Distance veranderd ook blur in de calculatie
+9. Geleerd hoe distance ervoor kan zorgen hoe het element uit de achtergrond gedrukt lijkt te zijn. Daarnaast geleerd dat de blur ervoor zorgt hoe vervaagd het element met de achtergrond is. Distance veranderd ook blur in de calculatie.
+
+Live demo: https://css-grid-neumorphism.web.app/ 
 
 Api's die gebruikt zijn:
 1. Pokémon API => https://pokeapi.co/docs/v2
